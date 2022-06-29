@@ -10,7 +10,7 @@ function HeroSection() {
 				<p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
 					I am Front End Developer. 
 					<br />
-					Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio{' '}
+					I design and code beautifully simple things, and I love what I do.{' '}
 				</p>
 				<a
 					href="#works"
