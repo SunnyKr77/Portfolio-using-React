@@ -1,30 +1,32 @@
+import img1 from '../assets/Note-taking-PWA.png'
+import img2 from '../assets/Sunny Shah.png'
+import img3 from '../assets/Spotify Front Page.png'
+import img4 from '../assets/Advice generator.png'
+
+
 export default [
 	{
-		title: 'TechHub-Blog',
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/techHub-blog/main/banner.png',
-		tech: ['React JS', 'Gatsby JS', 'Sanity.io'],
-		workUrl: 'https://github.com/ShaifArfan/techHub-blog',
+		title: 'Note-Taking PWA',
+		imgUrl: img1,
+		tech: ['HTML', 'CSS', 'Service Worker', 'Vercel'],
+		workUrl: 'https://note-taking-pwa.vercel.app/',
 	},
 	{
-		title: "Shaif'f Cuisine",
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/shaif-s-cuisine/main/readmeImg/banner.png',
-		tech: ['HTML', 'CSS', 'Netlify'],
+		title: "Sunny Shah's Portfolio",
+		imgUrl: img2,
+		tech: ['HTML', 'CSS', 'GitHub Pages'],
 		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
 	},
 	{
-		title: "Ayan's Portfolio Website",
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+		title: "Spotify Front Page",
+		imgUrl:img3,
+		tech: ['HTML', 'CSS', 'GitHub Pages'],
+		workUrl: 'https://github.com/SunnyKr77/Spotify-Clone',
 	},
 	{
-		title: 'Artistic',
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
+		title: 'Advice Generator',
+		imgUrl: img4,
+		tech: ['HTML', 'SASS', 'JS', 'API'],
+		workUrl: 'https://github.com/SunnyKr77/Advice-Genrator-Challenge',
 	},
 ];

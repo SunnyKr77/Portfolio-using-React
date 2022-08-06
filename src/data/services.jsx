@@ -8,18 +8,18 @@ export default [
 		title: 'Accessibilty',
 		icon: <MdWeb className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Try to ensures people with different abilities can access and understand content on internet.',
 	},
 	{
 		title: 'UI Design',
 		icon: <FaHandHoldingHeart className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Takes care of friendly interaction between users and web page. And focus on detailed styling',
 	},
 	{
-		title: 'Web Development',
+		title: 'Performance',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Optimises the website by focusing on reducing file sizes and minimizing the number of requests',
 	},
 ];
