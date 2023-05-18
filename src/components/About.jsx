@@ -9,7 +9,7 @@ function About() {
 				<SectionTitle>About Me</SectionTitle>
 				<p className="text-md text-gray-600 dark:text-gray-300">
 					Hi Sunny here,
-					Front end developer with so much love for animations, performace and accessibilty.
+					Experience in collaborating on freelance projects & technical writing, my goal is to leverage my skills in HTML, CSS, & JS to develop & enhance user experiences.
 				</p>
 				<a
 					href="mailto:webcifar.com"
@@ -21,7 +21,7 @@ function About() {
 
 			<img
 				src={myImg}
-				alt="Arfan"
+				alt="Sunny"
 				className="w-full md:w-6/12 rounded-lg object-cover"
 			/>
 		</div>

@@ -1,10 +1,16 @@
 import img1 from '../assets/pwa.avif'
 import img2 from '../assets/portfolio.avif'
 import img3 from '../assets/cosmo.avif'
-import img4 from '../assets/advice.avif'
+import img4 from '../assets/Modern-Bank-Cover.jpg'
 
 
 export default [
+	{
+		title: 'Modern Bank App',
+		imgUrl: img4,
+		tech: ['React', 'Tailwind CSS', 'JS'],
+		workUrl: 'https://github.com/SunnyKr77/modern-bank-app',
+	},
 	{
 		title: 'Note-Taking PWA',
 		imgUrl: img1,
@@ -22,11 +28,5 @@ export default [
 		imgUrl:img3,
 		tech: ['HTML', 'CSS', 'GitHub Pages'],
 		workUrl: 'https://github.com/SunnyKr77/Cosmo-Junkie',
-	},
-	{
-		title: 'Advice Generator',
-		imgUrl: img4,
-		tech: ['HTML', 'SASS', 'JS', 'API'],
-		workUrl: 'https://github.com/SunnyKr77/Advice-Genrator-Challenge',
 	},
 ];

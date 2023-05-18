@@ -4,7 +4,7 @@ function Footer() {
 	return (
 		<div className="py-5 bg-slate-800 text-center text-gray-300 rounded-t-lg">
 			<a href="#hero" className="block text-xl md:text-2xl font-semibold">
-				Sunny Shah
+				Sunny Kumar Shah
 			</a>
 			<a
 				href="mailto:webcifar@gmail.com"
@@ -13,7 +13,7 @@ function Footer() {
 				sunnykrshah201@gmail.com
 			</a>
 			<p className="text-xs mt-2 text-gray-500">
-				© Sunny-Shah {new Date().getFullYear()}. All rights reserved
+				© Sunny-Kumar-Shah {new Date().getFullYear()}. All rights reserved
 			</p>
 		</div>
 	);
